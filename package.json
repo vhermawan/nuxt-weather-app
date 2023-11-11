@@ -13,7 +13,11 @@
     "@nuxt/devtools": "latest",
     "nuxt": "^3.8.1",
     "nuxt-ark-ui": "^0.0.10",
+    "nuxt-icon": "^0.6.5",
     "vue": "^3.3.8",
     "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "oh-vue-icons": "^1.0.0-rc3"
   }
 }

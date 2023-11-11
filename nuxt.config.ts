@@ -8,5 +8,6 @@ export default defineNuxtConfig({
     }
   },
   devtools: { enabled: true },
-  modules: ["nuxt-ark-ui"]
+  modules: ["nuxt-ark-ui",'nuxt-icon'],
+  css: ['~/assets/css/main.css']
 })
